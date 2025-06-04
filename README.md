@@ -1,6 +1,9 @@
 # XML Conversion of Chadwyck-Healey's „Weimarer Ausgabe”
 
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.15591243.svg)](https://doi.org/10.5281/zenodo.15591243)
+
 _Conversion of Goethe's Collected Works from EBT DynaText to XML_
+
 
 The CD-ROM edition of Goethe's collected works by Chadwyck Healey, published in
 1995 and based on the „Weimarer Ausgabe” – while not the most recent edition –
