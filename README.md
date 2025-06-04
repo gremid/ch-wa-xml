@@ -33,7 +33,7 @@ Retrieve an ISO image of the CD-ROM edition and copy the directory
 converted to lower case, i. e.
 
 ```
-$ sudo mount -o loop,ro $CA_WA_ISO_FILE /mnt
+$ sudo mount -o loop,ro $CH_WA_ISO_FILE /mnt
 $ cp -R /mnt/ebtbooks/books/goethe data
 ```
 
