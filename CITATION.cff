@@ -1,0 +1,16 @@
+cff-version: 1.2.0
+title: "XML Conversion of Chadwyck-Healey's „Weimarer Ausgabe”"
+version: 1.0.0
+license: "GPLv3"
+type: software
+abstract: "Conversion of Goethe's Collected Works from EBT DynaText to XML"
+message: "If you use this software, please cite it as below."
+authors:
+  - given-names: Gregor
+    family-names: Middell
+    affiliation: Berlin-Brandenburg Academy of Sciences and Humanities
+    orcid: "https://orcid.org/0009-0000-9256-4687"
+keywords:
+  - digital humanities
+  - computational philology
+  - ebt dynatext
