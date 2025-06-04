@@ -1,0 +1,5 @@
+{:deps    {io.helins/binf                       {:mvn/version "1.1.0"}
+           com.github.strojure/parsesso         {:mvn/version "1.0.251-RC7"}
+           com.taoensso/timbre                  {:mvn/version "6.0.4"}
+           com.fasterxml.woodstox/woodstox-core {:mvn/version "6.5.0"}}
+ :aliases {:convert {:main-opts ["-m" "ch-wa-xml"]}}}

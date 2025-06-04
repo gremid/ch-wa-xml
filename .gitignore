@@ -1,0 +1,9 @@
+data/ch-wa.iso
+data/ch-wa.xml
+data/goethe
+
+.cpcache/
+.nrepl-port
+
+*~
+*.temp
